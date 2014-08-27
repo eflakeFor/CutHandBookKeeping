@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="eflake_ui" parent="@style/_eflake_ui"/>
+
+  <style name="_eflake_ui" parent="android:Theme.Holo.Light.DarkActionBar">
+
+    <item name="android:editTextBackground">@drawable/eflake_ui_edit_text_holo_light</item>
+
+    <item name="android:listChoiceIndicatorMultiple">@drawable/eflake_ui_btn_check_holo_light</item>
+
+    <item name="android:listChoiceIndicatorSingle">@drawable/eflake_ui_btn_radio_holo_light</item>
+
+    <item name="android:buttonStyle">@style/Buttoneflake_ui</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtoneflake_ui</item>
+
+    <item name="android:dropDownSpinnerStyle">@style/Spinnereflake_ui</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBareflake_ui</item>
+
+    <item name="android:seekBarStyle">@style/SeekBareflake_ui</item>
+
+    <item name="android:buttonStyleToggle">@style/Toggleeflake_ui</item>
+
+    <item name="android:listChoiceBackgroundIndicator">@drawable/eflake_ui_list_selector_holo_light</item>
+
+    <item name="android:activatedBackgroundIndicator">@drawable/eflake_ui_activated_background_holo_light</item>
+
+    <item name="android:fastScrollThumbDrawable">@drawable/eflake_ui_fastscroll_thumb_holo</item>
+
+  </style>
+
+</resources>

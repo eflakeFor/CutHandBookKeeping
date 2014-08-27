@@ -1,0 +1,2 @@
+INDEX VERSION 1.126+F:\CutHandBookKeeping\.metadata\.plugins\org.eclipse.jdt.core
+4284523322.index
